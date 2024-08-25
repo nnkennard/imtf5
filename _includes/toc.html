@@ -86,6 +86,10 @@
             {% continue %}
         {% endif %}
 
+        {% if node.layout == "recipe" %}
+            {% continue %}
+        {% endif %}
+
         {% assign currLevel = node | replace: '"', '' | slice: 0, 1 | times: 1 %}
 
         {% if currLevel < minHeader or currLevel > maxHeader %}
