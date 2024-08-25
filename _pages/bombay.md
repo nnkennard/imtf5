@@ -8,7 +8,7 @@ These are some of our favourite foods from Bombay!
 
 # Barbecue
 
-* [Boti Kebab](/barbecue/boti_kebab.html)
+* [Boti Kebab](/barbecue/boti_kebab/)
 * Chicken Tikka
 
 # Cakes
