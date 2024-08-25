@@ -1,7 +1,7 @@
 ---
 title: Boti kebab
 category: Jekyll
-layout: page
+layout: recipe
 no_toc: true
 ---
 
