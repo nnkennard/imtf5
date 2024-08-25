@@ -2,6 +2,7 @@
 title: Boti kebab
 category: Jekyll
 layout: post
+no_toc: true
 ---
 
 
